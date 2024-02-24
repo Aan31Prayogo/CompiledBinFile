@@ -1,0 +1,2 @@
+version_01 = blynk only
+version_02 = update firmware via mqtt subs, modbus and http post
